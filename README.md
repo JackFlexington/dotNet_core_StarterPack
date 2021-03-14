@@ -96,6 +96,9 @@ dotnet new web # Alternatively: dotnet new console.
 dotnet run # To run the template version of created app.
 ```
 
+# Troubleshooting
+* [Fix debugger](https://stackoverflow.com/questions/52063435/debugging-net-core-in-ubuntu-using-vscode)
+
 # Sources: 
 * [.NET Core webpage](https://dotnet.microsoft.com/download/dotnet/3.1)
 * Web page instructions for [Linux Installation](https://docs.microsoft.com/en-us/dotnet/core/install/linux)
