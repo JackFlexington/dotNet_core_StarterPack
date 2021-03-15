@@ -92,9 +92,13 @@ mkdir APP_NAME/src
 mkdir APP_NAME/test
 mkdir APP_NAME/src/APP_NAME/
 cd APP_NAME/src/APP_NAME
-dotnet new web # Alternatively: dotnet new console.
+dotnet new console # Alternatively: dotnet new web.
 dotnet run # To run the template version of created app.
 ```
+
+### 
+
+### Writing some simple
 
 # Troubleshooting
 * [Fix debugger](https://stackoverflow.com/questions/52063435/debugging-net-core-in-ubuntu-using-vscode)
